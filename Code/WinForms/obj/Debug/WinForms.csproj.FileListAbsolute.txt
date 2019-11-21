@@ -1,0 +1,11 @@
+C:\Users\administrador.SPASIDE\Desktop\Test\WinForms\bin\Debug\WinForms.exe.config
+C:\Users\administrador.SPASIDE\Desktop\Test\WinForms\bin\Debug\WinForms.exe
+C:\Users\administrador.SPASIDE\Desktop\Test\WinForms\bin\Debug\WinForms.pdb
+C:\Users\administrador.SPASIDE\Desktop\Test\WinForms\bin\Debug\DllTest.dll
+C:\Users\administrador.SPASIDE\Desktop\Test\WinForms\bin\Debug\DllTest.pdb
+C:\Users\administrador.SPASIDE\Desktop\Test\WinForms\obj\Debug\WinForms.csprojResolveAssemblyReference.cache
+C:\Users\administrador.SPASIDE\Desktop\Test\WinForms\obj\Debug\WinForms.Form1.resources
+C:\Users\administrador.SPASIDE\Desktop\Test\WinForms\obj\Debug\WinForms.Properties.Resources.resources
+C:\Users\administrador.SPASIDE\Desktop\Test\WinForms\obj\Debug\WinForms.csproj.GenerateResource.Cache
+C:\Users\administrador.SPASIDE\Desktop\Test\WinForms\obj\Debug\WinForms.exe
+C:\Users\administrador.SPASIDE\Desktop\Test\WinForms\obj\Debug\WinForms.pdb

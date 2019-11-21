@@ -1,0 +1,5 @@
+C:\Users\administrador.SPASIDE\Desktop\Test\DllTest\DllTest\bin\Release\DllTest.dll.config
+C:\Users\administrador.SPASIDE\Desktop\Test\DllTest\DllTest\bin\Release\DllTest.dll
+C:\Users\administrador.SPASIDE\Desktop\Test\DllTest\DllTest\bin\Release\DllTest.pdb
+C:\Users\administrador.SPASIDE\Desktop\Test\DllTest\DllTest\obj\Release\DllTest.dll
+C:\Users\administrador.SPASIDE\Desktop\Test\DllTest\DllTest\obj\Release\DllTest.pdb

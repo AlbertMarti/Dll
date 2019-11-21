@@ -1,0 +1,6 @@
+C:\Users\administrador.SPASIDE\Desktop\Test\DllTest\DllTest\bin\Debug\DllTest.dll.config
+C:\Users\administrador.SPASIDE\Desktop\Test\DllTest\DllTest\bin\Debug\DllTest.dll
+C:\Users\administrador.SPASIDE\Desktop\Test\DllTest\DllTest\bin\Debug\DllTest.pdb
+C:\Users\administrador.SPASIDE\Desktop\Test\DllTest\DllTest\obj\Debug\DllTest.csprojResolveAssemblyReference.cache
+C:\Users\administrador.SPASIDE\Desktop\Test\DllTest\DllTest\obj\Debug\DllTest.dll
+C:\Users\administrador.SPASIDE\Desktop\Test\DllTest\DllTest\obj\Debug\DllTest.pdb
